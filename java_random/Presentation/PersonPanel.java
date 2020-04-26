@@ -110,7 +110,6 @@ public class PersonPanel extends JPanel {
 					JOptionPane.showMessageDialog(null, "Person Data is saved\n" + result, " Save Person",
 							JOptionPane.INFORMATION_MESSAGE);
 				}
-
 			}
 		}
 	}
